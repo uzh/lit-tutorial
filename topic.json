@@ -1,0 +1,7 @@
+{
+  "id": null,
+  "title": "LiT tutorial",
+  "image": "resources/Coffee.jpg",
+  "active": true,
+  "startPage": "chapter1/T1.1/page.json"
+}
