@@ -7,9 +7,9 @@
   "showInNotebookAt": null,
   "page": null,
   "images": [
-    "resources/Coffee.jpg"
+    "resources/T_Coffee.jpg"
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be an image with the textComponent.json page"
+  "caption": "this should be an image with the textComponent page"
 }
