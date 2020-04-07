@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "from": "chapter1/T1.1/character1.json",
+  "openOnReceive": false,
+  "receiveAfter": {
+    "time": 3
+  },
+  "showInNotebook": false,
+  "page": null,
+  "subject": "Tutorial speed...",
+  "body": "Hi {{user.firstName}},<br><br>OMG! Does Martyn really need to explain every detail? And what's going on with the royal 'we'?<br>I just hope he speeds up, otherwise I am *out of here*.<br><br>Yours in solidarity,<br>Leila"
+}

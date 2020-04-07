@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "title": "Dummy end of topic page",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "endOfTopic": true,
+  "time": null,
+  "money": {
+    "amount": null
+  },
+  "chapter": null
+}
