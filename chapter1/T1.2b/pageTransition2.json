@@ -1,8 +1,8 @@
 {
   "id": null,
   "from": null,
-  "to": "chapter1/T1.2b/page.json",
-  "buttonText": "To page T1.2b",
+  "to": "chapter1/T1.2a/page.json",
+  "buttonText": "Back to page T1.2a",
   "time": {
     "time": 0
   },
