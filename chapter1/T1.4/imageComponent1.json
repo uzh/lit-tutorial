@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 4,
+  "offsetColumns": 1,
+  "renderOrder": 4,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "images": [
+    "resources/T_Coffee.jpg"
+  ],
+  "imageViewRectangle": null,
+  "zoomable": true,
+  "caption": "this should be an image with the textComponent page"
+}

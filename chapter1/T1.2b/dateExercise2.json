@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "numberOfColumns": 3,
+  "offsetColumns": 2,
+  "renderOrder": 4,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "label": "Dwight Baldwin born:",
+  "solution": {
+    "correctDate": "29.09.1798"
+  }
+}

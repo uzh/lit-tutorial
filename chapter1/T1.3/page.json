@@ -1,9 +1,9 @@
 {
   "id": null,
-  "title": "Dummy end of topic page",
+  "title": "Chapter 1, Page 3 (T1.3) notebook",
   "continueRandomly": false,
   "timerVisible": false,
-  "endOfTopic": true,
+  "endOfTopic": false,
   "time": null,
   "money": {
     "amount": null

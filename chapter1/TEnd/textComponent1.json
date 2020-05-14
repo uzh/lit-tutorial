@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 2,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "Next = imageComponent, then Audio, Video. Then we can begin to get to textExercise, etc, which means then Notebook. And Inbox needs to be explained before pageTransition. Eventually this will be the end of the Tutorial"
+}

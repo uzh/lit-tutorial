@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 2,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageEnter",
+  "page": null,
+  "images": [
+    "resources/2.4.3.1.2.2.jpg"
+  ],
+  "imageViewRectangle": null,
+  "zoomable": true,
+  "caption": null
+}

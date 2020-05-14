@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 3,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "To have two modules appear next to each other, like the picture on the left side and this text, you have to make sure, that the value of *numberOfColumns* and the *offsetColumns* of **both** modules add up to at most 12. In this case both the image and the text have the width of 5 columns and each 1 column to the left. This way *Marugoto* renders them next to each other. The image on the left has the *renderOrder* value 2, so it gets rendered first on the left side. This text with the *renderOrder* value 3 is on the right side, because it's small enough to fill up the remaining columns."
+}

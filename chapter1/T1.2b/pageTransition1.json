@@ -1,0 +1,46 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter1/T1.3/page.json",
+  "buttonText": "Go to Page 3 regarding the notebook function",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "correctInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter1/T1.2b/dateExercise1.json",
+      "affectedPage": null,
+      "affectedMail": null
+    },
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "correctInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter1/T1.2b/dateExercise2.json",
+      "affectedPage": null,
+      "affectedMail": null
+    },
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "correctInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter1/T1.2b/dateExercise3.json",
+      "affectedPage": null,
+      "affectedMail": null
+    },
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "correctInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter1/T1.2b/dateExercise4.json",
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

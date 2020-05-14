@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "numberOfColumns": 3,
+  "offsetColumns": 2,
+  "renderOrder": 5,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "label": "Charlotte Fowler died:",
+  "solution": {
+    "correctDate": "02.10.1873"
+  }
+}

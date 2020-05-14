@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "numberOfColumns": 3,
+  "offsetColumns": 2,
+  "renderOrder": 3,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "label": "Charlotte Fowler born:",
+  "solution": {
+    "correctDate": "07.11.1805"
+  }
+}

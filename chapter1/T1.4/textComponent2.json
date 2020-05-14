@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 2,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "If you open the **T1.2/textComponent2&#46;json** file, you'll see that the *numberOfColumns* in this text section is set to 8. But now we come to the *offsetColumns* line. For Marugoto will always fill the 12 columns from the top-left 'cell', as it were. If you want your textComponent to be at the very most left-hand side of the page, you should give the *offsetColumns* line a value of 0. But we think this looks pretty ugly. So if you want a basic margin on your page, your *offsetColumns* should have a value of at least 1. And then you need to do some basic maths. Your page elements should always add up to **12**. If, as in **textComponent1** above, you have an *offsetColumn* value of 1 and a *numberOfColumns* value of 10, you have a total value of 11 (1+10=11). This will then mean that there is automatically an empty column with a width of 1 to the *right* of your textComponent, giving it the illusion of being centred in the page. Similarly, **textComponent2** (which you're reading now) has an *offsetColumns* value of 2. 2+8=10, which means that the final two columns to the right of **textComponent2** are empty: once again, this component is therefore centred on the page. (By contrast, if I had set the *offsetColumns* value to 1, it would appear slightly off-centre, towards the left: this is the problem with textComponent3 (below)."
+}

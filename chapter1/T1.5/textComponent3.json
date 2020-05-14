@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 1,
+  "renderOrder": 3,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "This is **textComponent3**. You can see it's a bit off-centre to the left, because its *offsetColumns* value is only 1. 1+8 = 9, which means that there are 3 empty columns to the right of this textComponent.<br><br>And now we come to the final element, the *renderOrder*. This controls the vertical position of each component on the page. Why is it that textComponent1 comes above textComponent2, and textComponent3 is only third on the page? That's because the *renderOrder* for textComponent1 was 1, for textComponent2 was 2, and the renderOrder for textComponent3 is 3. Where *renderOrder* gets more complicated is when you have multiple elements on the page. Then what you have to remember is that Marugoto goes from **left to right, top to bottom**. Thus, the *renderOrder* of the imageComponent below is 4, which means that Marugoto will always prioritise the placing of the imageComponent over textComponent4 (to its right)."
+}

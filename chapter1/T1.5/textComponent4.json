@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 5,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "**textComponent4**: we're almost done! A final trick: if you have text which you want to appear at the same height on the page as, say, the imageComponent, then you adjust your *offsetColumns* value accordingly. For the textComponent4, which you're currently reading, the value is 1. This means that Marugoto will insert a 1-column gap to the immediate left of textComponent4. But if the immediate left of textComponent4 is filled with an imageComponent, as here, then that *offsetColumn* will start to the *right* of whatever width of imageComponent is taking up the space. In other words: the imageComponent has an *offsetColumms* value of 1, and a *numberOfColumns* value of 4. 1+4 = 5. Consequently, the *offsetColumns* value for **textComponent4** will begin *after* 5. Because the offsetColumns value is 1, the text itself will begin at column 6 (because 1+4+1 = 6). This means that the *numberOfColumns* value (that is, the remaining number of columns available to textComponent4) can be no more than 6, because the maximum width of the page is 12. Here, you'll see that the *numberOfColumns* value is 5, which leaves an aesthetically pleasing right-hand margin of 1."
+}

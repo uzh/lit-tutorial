@@ -1,8 +1,8 @@
 {
   "id": null,
-  "numberOfColumns": 4,
+  "numberOfColumns": 5,
   "offsetColumns": 1,
-  "renderOrder": 1,
+  "renderOrder": 2,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
@@ -11,5 +11,5 @@
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be an image with the textComponent page"
+  "caption": "This is imageComponent1.json with a width of 5 columns and an offset of 1"
 }
