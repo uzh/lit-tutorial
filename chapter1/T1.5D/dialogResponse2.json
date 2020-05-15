@@ -1,0 +1,7 @@
+{
+  "id": null,
+  "buttonText": "Ask Prof Moira for more time to make a decision",
+  "from": "chapter1/T1.5D/dialogSpeech1.json",
+  "to": "chapter1/T1.5D/dialogSpeech1.json",
+  "pageTransition": "chapter1/T1.5D/pageTransition2.json"
+}

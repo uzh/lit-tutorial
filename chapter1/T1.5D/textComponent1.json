@@ -3,8 +3,6 @@
   "numberOfColumns": 8,
   "offsetColumns": 2,
   "renderOrder": 1,
-  "showInNotebook": false,
-  "showInNotebookAt": null,
   "page": null,
   "markdownContent": "This dialog thing is going to be dicey."
 }
