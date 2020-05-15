@@ -1,8 +1,8 @@
 {
   "id": null,
   "from": null,
-  "to": "chapter1/T1.5D/page.json",
-  "buttonText": "Trigger the dialog",
+  "to": "chapter1/TEnd/page.json",
+  "buttonText": "To page TEnd",
   "time": {
     "time": 0
   },

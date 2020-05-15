@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "from": "chapter1/T1.6/character1.json",
+  "openOnReceive": true,
+  "receiveAfter": {
+    "time": 15
+  },
+  "page": null,
+  "speech": "chapter1/T1.6/dialogSpeech1.json"
+}

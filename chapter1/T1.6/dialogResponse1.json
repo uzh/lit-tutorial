@@ -1,0 +1,7 @@
+{
+  "id": null,
+  "buttonText": "Go to TEnd",
+  "from": "chapter1/T1.6/dialogSpeech1.json",
+  "to": "chapter1/T1.6/dialogSpeech1.json",
+  "pageTransition": "chapter1/T1.6/pageTransition1.json"
+}
