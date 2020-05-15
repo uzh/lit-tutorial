@@ -3,13 +3,13 @@
   "numberOfColumns": 6,
   "offsetColumns": 3,
   "renderOrder": 2,
-  "showInNotebook": false,
-  "showInNotebookAt": null,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageEnter",
   "page": null,
   "images": [
     "resources/T_Coffee.jpg"
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "this should be an image with the textComponent page"
+  "caption": "This image has a numberOfColumns of 6 and an offsetColumns of 3 and will be shown in the notebook upon entering the page"
 }
