@@ -8,8 +8,14 @@
   "descriptionForNotebook": null,
   "page": null,
   "exerciseState": null,
-  "placeholderText": "Write your thoughts here",
+  "placeholderText": "Write your thoughts here (to proceed you must have at least 300 characters)",
   "defaultText": null,
   "maxLength": null,
-  "textSolutions": []
+  "textSolutions": [
+    {
+      "textToCompare": null,
+      "minLength": 300,
+      "mode": "length"
+    }
+  ]
 }
