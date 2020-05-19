@@ -3,7 +3,7 @@
   "from": "chapter1/T1.4/character1.json",
   "openOnReceive": false,
   "receiveAfter": {
-    "time": 120
+    "time": 10
   },
   "showInNotebook": false,
   "page": null,
