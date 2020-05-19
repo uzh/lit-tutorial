@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "title": "Congratulations! You finished the tutorial!",
+  "continueRandomly": false,
+  "timerVisible": false,
+  "endOfTopic": true,
+  "time": null,
+  "money": {
+    "amount": null
+  },
+  "chapter": null
+}

@@ -1,9 +1,9 @@
 {
   "id": null,
-  "title": "Dummy end of topic page",
+  "title": "Chapter 2, Page 2 (T2.2) recommended beginner workflow",
   "continueRandomly": false,
   "timerVisible": false,
-  "endOfTopic": true,
+  "endOfTopic": false,
   "time": null,
   "money": {
     "amount": null
