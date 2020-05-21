@@ -1,6 +1,6 @@
 {
   "id": null,
-  "buttonText": "Go to TEnd",
+  "buttonText": "Go to T2.1",
   "from": "chapter1/T1.6/dialogSpeech1.json",
   "to": "chapter1/T1.6/dialogSpeech1.json",
   "pageTransition": "chapter1/T1.6/pageTransition1.json"
