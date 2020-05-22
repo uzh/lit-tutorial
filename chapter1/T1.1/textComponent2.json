@@ -1,10 +1,10 @@
 {
   "id": null,
-  "numberOfColumns": 4,
+  "numberOfColumns": 5,
   "offsetColumns": 1,
   "renderOrder": 3,
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
-  "markdownContent": "To have two modules appear next to each other, like the picture on the left side and this text, you have to make sure, that the value of *numberOfColumns* and the *offsetColumns* of **both** modules add up to at most 12. Here the image has a width of 3 and an offset of 2 and the text has the width of 4 columns and leaves 1 column to the left empty. This way *Marugoto* renders them next to each other. The image on the left has the *renderOrder* value 2, so it gets rendered first starting from the left side. This text with the *renderOrder* value 3 is on the right side, right next to the image, because it's small enough to fill up the remaining columns left empty."
+  "markdownContent": "To have two modules appear next to each other, like the picture on the left side and this text, you have to check that the value of *numberOfColumns* and the *offsetColumns* of **both** modules add up to 12. Here the image has a width of 4 and an offset of 1; the text has a width of 5 columns and an offset of 1, which is calculated from where the image ends. Thus, the total width of the two modules, including offset, is 1+4+1+5 (=11). This then leaves one remaining column to the right of the text module you're now reading, meaning that in combination, image and text are centred on the page. Meanwhile, the image on the left has a *renderOrder* value of 2, so it gets rendered second only to the text module above it, starting on the left side. This text module, in turn, has a *renderOrder* value of 3, meaning it will appear to the right of the image, because it's small enough to fit into the remaining columns to the image's right."
 }
