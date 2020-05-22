@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 4,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "page": null,
+  "markdownContent": "As previously mentioned, if you want to save one module from the page in the Notebook, there must be a **notebookEntry** file in the page folder. This defines the title of the entry, be it just a picture or the contents of an exercise, and if it's not in the folder, *Marugoto* won't be able to proceed to the next page as it's looking (desperately) for the title of the entry. (Incidentally, this paragraph, which is a separate *textComponent*, has been saved to Notebook; but because *showInNotebookAt* is set to pageExit, it won't appear until you exit this page.)"
+}

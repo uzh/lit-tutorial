@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 3,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "You've probably noticed that in the files for most of the modules there are two variables called *showInNotebook* and *showInNotebookAt*. The first variable is a Boolean, so it's either true of false. If you look at the `imageComponent.json` in the folder T1.3, the page we're on right now, you'll see that the value for the variable is true. In comparison, the **textComponent** you're reading right now has a *showInNotebook* value of false, so it won't appear in the Notebook. *showInNotebookAt* defines when the module will be shown in the Notebook. For the **imageComponent** on this page the value is *pageEnter*. This means as soon as the player enters this page, the image will be visible in the Notebook. Another option is *pageExit*, which is often used for storing **textExercise** after completion."
+}
