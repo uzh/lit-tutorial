@@ -2,7 +2,7 @@
   "id": null,
   "from": null,
   "to": "chapter1/T1.5D/page.json",
-  "buttonText": "Trigger the dialog",
+  "buttonText": "Trigger the dialog (method 1)",
   "time": {
     "time": 0
   },
