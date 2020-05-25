@@ -1,7 +1,0 @@
-{
-  "id": null,
-  "buttonText": "Go back to T1.5D",
-  "from": "chapter1/T1.5D/dialogSpeech1.json",
-  "to": "chapter1/T1.5D/dialogSpeech1.json",
-  "pageTransition": "chapter1/T1.6/pageTransition2.json"
-}

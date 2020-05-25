@@ -1,7 +1,7 @@
 {
   "id": null,
-  "buttonText": "Go to T2.1",
+  "buttonText": "Close this dialog box",
   "from": "chapter1/T1.6/dialogSpeech1.json",
   "to": "chapter1/T1.6/dialogSpeech1.json",
-  "pageTransition": "chapter1/T1.6/pageTransition1.json"
+  "pageTransition": null
 }
