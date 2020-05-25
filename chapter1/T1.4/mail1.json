@@ -8,5 +8,5 @@
   "showInNotebook": false,
   "page": null,
   "subject": "What's up",
-  "body": "Hey game-creator!<br><br>You keeping up with this?<br><br>All best,<br>Your caring team at LiT.<br><br>======<br>*Sent from our very smart device. But not so smart that it piks up typos*"
+  "body": "Hey {{user.firstName}}!<br><br>You keeping up with all this?<br><br>All best,<br>Your caring team at LiT.<br><br>======<br>*Sent from our very smart device. But not so smart that it piks up typos*"
 }
