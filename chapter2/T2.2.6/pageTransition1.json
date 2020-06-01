@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter2/T2.3/page.json",
+  "buttonText": "False choice A (lose 130 EUR)",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": -130
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}
