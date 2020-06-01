@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 1,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "We're almost done with the `page.json` file. What's important to note here is that if you *don't* want to use the timed transition functionality, you must *not* set your time value to 0 (if you do, the page will transition automatically after 0 seconds). Rather, you must set the *time* variable to *null*.<br><br>There are several other variables in the `page.json` file which affect transitions, but we'll cover them very quickly: *endOfTopic* is only relevant at the end of your game (see below); *continueRandomly* exists, but we won't describe it in detail here; and, finally, *money*. If you want your player to be conscious of money pressures, then at some point you should set this variable. You only need to set it once in `page.json`. For the page you're on now, we've set it at 700 EUR. You can now forget about the money variable in the page files: for all subsequent pages, the *money* variable should be set to *null*. But when you arrive on the next page (T.2.2.3), you'll see that your money has decreased to 450 EUR. This is because, in the `pageTransition1.json` file for this page, we have set the *money* value to *-250*, meaning that Marugoto will deduct 250 from your total amount (700) when you transition to T.2.2.3. (You can also add money, of course; but *please only use whole numbers*...)<br><br>This all brings us at last to the `pageTransition.json` files themselves..."
+}

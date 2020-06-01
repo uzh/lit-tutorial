@@ -1,0 +1,13 @@
+{
+  "id": null,
+  "title": "Chapter 2, Page 2 (T2.2.2) timed page transitions (2)",
+  "continueRandomly": false,
+  "time": null,
+  "timerVisible": true,
+  "endOfTopic": false,
+  "autoTransitionOnTimerExpiration": true,
+  "money": {
+    "amount": 700
+  },
+  "chapter": null
+}

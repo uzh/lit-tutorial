@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter2/T2.2.3/page.json",
+  "buttonText": "Continue to T.2.2.3 (pageTransition files)",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": -250
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": null,
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}
