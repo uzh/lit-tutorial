@@ -3,9 +3,9 @@
   "title": "Chapter 2, Page 2 (T2.2.2) timed page transitions (2)",
   "continueRandomly": false,
   "time": null,
-  "timerVisible": true,
+  "timerVisible": false,
   "endOfTopic": false,
-  "autoTransitionOnTimerExpiration": true,
+  "autoTransitionOnTimerExpiration": false,
   "money": {
     "amount": 700
   },
