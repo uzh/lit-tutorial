@@ -6,5 +6,5 @@
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
-  "markdownContent": "This is it! Now you should be able to create you own *Lives in Transit* game! Good luck, have fun!"
+  "markdownContent": "One last thing to keep in mind is that you also have to define the end point of your game. In the case of the tutorial it's the page TEnd, you'll find in the repository or when you click on the button *Finish the tutorial* below. It essentially works like a normal page, except in the `page.json` the value for the variable *endOfTopic* is true. This will cause a button to appear which says *Go to your games* and brings the player back to the starting screen.<br><br>If you're interested in the complete functionality of *Marugoto*, be sure to check out the <a href=\"https://lives-in-transit.readthedocs.io/en/latest/\" class=\"underlined\" target=\"_blank\">writers' guide</a>. Pull requests are always welcome for both games and their engine. Please be in touch <a href=\"https://github.com/uzh/marugoto\" class=\"underlined\" target=\"_blank\">via GitHub</a> or <a href=\"https://twitter.com/transitlives\" class=\"underlined\" target=\"_blank\">Twitter</a>.<br><br>That's it! Now you should be able to create you own *Lives in Transit* game! Good luck, have fun!"
 }
