@@ -5,8 +5,6 @@
   "timerVisible": false,
   "endOfTopic": true,
   "time": null,
-  "money": {
-    "amount": null
-  },
+  "money": null,
   "chapter": null
 }
