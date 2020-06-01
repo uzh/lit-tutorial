@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter2/T2.3/page.json",
+  "buttonText": "This button becomes visible if you've replied to the email",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": null,
+      "mailCriteria": "reply",
+      "affectedExercise": null,
+      "affectedPage": null,
+      "affectedMail": "chapter2/T2.2.5/mail1.json"
+    }
+  ]
+}

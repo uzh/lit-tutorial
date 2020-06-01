@@ -1,0 +1,12 @@
+{
+  "id": null,
+  "from": "chapter2/T2.2.5/character1.json",
+  "openOnReceive": false,
+  "receiveAfter": {
+    "time": 3
+  },
+  "showInNotebook": true,
+  "page": null,
+  "subject": "Extremely important email",
+  "body": "Dear {{user.firstName}}!<br><br>I'm writing because it seems to me you are taking an inordinate amount of time to play this 'Tutorial' game---time that otherwise you could be spending on your studies. To confirm that you are still committed to the intellectual life of the mind, please be so kind as to reply to this email immediately.<br><br>Yours truly,<br>MM<br><br>Professor Meredith Moira<br>Dean of the Humanities Teaching Award Nominee, 2018"
+}

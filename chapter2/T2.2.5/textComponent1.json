@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 2,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "On this page, we're going to discuss two more *criteria* variables in any **pageTransition** file, namely *mailCriteria* and *affectedMail*. First, note that the **pageTransition** buttonText is not visible at this point. Then, open your Inbox, read the email, and return to this page by closing your Inbox."
+}

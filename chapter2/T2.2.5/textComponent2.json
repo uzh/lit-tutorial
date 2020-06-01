@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 3,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "So: in your Inbox sits a new email. And only by replying to the email will the *buttonText* appear and allow you to transition to the next page. This is because the *mailCriteria* variable is entered as *reply*, and the string for the *affectedMail* variable is `chapter2/T2.2.5/mail1.json`<br><br>So please reply now! (And note that the *showInNotebook* variable of the **mail** file is set to *true*, meaning that any reply you compose will be saved to your Notebook---as long as you've also remembered to add a **notebookEntry** file to this page.)<br><br>Finally, to the final two variables in the **pageTransition**criteria..."
+}
