@@ -1,8 +1,8 @@
 {
   "id": null,
   "from": null,
-  "to": "chapter2/T2.4/page.json",
-  "buttonText": "Workflows",
+  "to": "chapter2/T2.3/page.json",
+  "buttonText": "Back to page T2.3",
   "time": {
     "time": 0
   },
