@@ -1,0 +1,21 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 4,
+  "showInNotebook": true,
+  "showInNotebookAt": "pageExit",
+  "descriptionForNotebook": null,
+  "page": null,
+  "exerciseState": null,
+  "placeholderText": "Enter your transcription here",
+  "defaultText": null,
+  "maxLength": null,
+  "textSolutions": [
+    {
+      "textToCompare": "This is an extremely interesting transcription exercise.",
+      "minLength": null,
+      "mode": "fuzzyComparison"
+    }
+  ]
+}

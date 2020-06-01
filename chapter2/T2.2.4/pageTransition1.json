@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "from": null,
+  "to": "chapter2/T2.2.5/page.json",
+  "buttonText": "This button becomes visible if you've transcribed correctly!",
+  "time": {
+    "time": 0
+  },
+  "money": {
+    "amount": 0
+  },
+  "criteria": [
+    {
+      "pageCriteria": null,
+      "exerciseCriteria": "correctInput",
+      "mailCriteria": null,
+      "affectedExercise": "chapter2/T2.2.4/textExercise1.json",
+      "affectedPage": null,
+      "affectedMail": null
+    }
+  ]
+}

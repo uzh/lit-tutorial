@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 5,
+  "offsetColumns": 1,
+  "renderOrder": 2,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "On this page, we're going to discuss two of the *criteria* variables in any pageTransition file, namely *exerciseCriteria* and *affectedExercise*. For *exerciseCriteria*, your string can either be *null* or it can be *correctInput*. If it's *correctInput*, this means that the *buttonText* variable in the pageTransition file will be invisible to the player until they have inputted the correct answer to whatever exercise you, the game-creator, have set them."
+}
