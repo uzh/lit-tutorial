@@ -1,13 +1,13 @@
 {
   "id": null,
   "from": null,
-  "to": "chapter2/T2.2.1/page.json",
-  "buttonText": "Back to page T2.2",
+  "to": "chapter2/T2.2.4/page.json",
+  "buttonText": "Continue",
   "time": {
     "time": 0
   },
   "money": {
-    "amount": 0
+    "amount": -175
   },
   "criteria": [
     {

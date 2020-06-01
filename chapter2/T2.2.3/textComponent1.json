@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
+  "renderOrder": 1,
+  "showInNotebook": false,
+  "showInNotebookAt": null,
+  "page": null,
+  "markdownContent": "The first point is nice and short: in order for the player to control a transition to a new page, he/she needs to be able to click on one or more buttons, which appear at the bottom of the page. The text that appears on these buttons is---astonishingly enough---the *buttonText* variable in `pageTransition.json` files. The most common string is *Continue*, but as you'll have seen already, we've gone completely wild in the buttonTexts for this Tutorial game (never accuse us of ignoring UX!).<br><br>Of course, you don't *have* to have a *buttonText*: if you were setting an automatic timed page transition (T2.2.1), you might want to have the player unable to transition in their own time. For this reason, you would make the buttonText variable *null*. This is a good way to disorient the player---to get them to think, “eh, how do I get out of this page?”---but make sure you've set the *time* and *autoTransitionOnTimerExpiration* variable in the `page.json` file correctly, for otherwise the player will be stuck and your game is effectively over.<br><br>That's one way of 'hiding' the buttonText. The other is to make it appear only if/when certain criteria have been met, which takes us to the most complicated part of the pageTransition files..."
+}
