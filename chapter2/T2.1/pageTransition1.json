@@ -1,8 +1,8 @@
 {
   "id": null,
   "from": null,
-  "to": "chapter2/T2.2/page.json",
-  "buttonText": "To page T2.2, recommended beginner workflow",
+  "to": "chapter2/T2.2.1/page.json",
+  "buttonText": "To page T2.2.1, timed page transitions",
   "time": {
     "time": 0
   },
