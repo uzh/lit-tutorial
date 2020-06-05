@@ -1,7 +1,7 @@
 {
   "id": null,
   "numberOfColumns": 6,
-  "offsetColumns": 2,
+  "offsetColumns": 1,
   "renderOrder": 1,
   "showInNotebook": true,
   "showInNotebookAt": "pageEnter",
@@ -11,5 +11,5 @@
   ],
   "imageViewRectangle": null,
   "zoomable": true,
-  "caption": "This image has the following values: numberOfColumns = 6;  offsetColumns = 1. It will be shown in the notebook upon entering the page"
+  "caption": "This image has the following values: numberOfColumns = 6;  offsetColumns = 1. It will be shown in the Notebook upon entering the page"
 }

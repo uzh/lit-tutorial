@@ -1,7 +1,7 @@
 {
   "id": null,
-  "numberOfColumns": 10,
-  "offsetColumns": 1,
+  "numberOfColumns": 8,
+  "offsetColumns": 2,
   "renderOrder": 7,
   "page": null,
   "markdownContent": "The next page, T1.3, will discuss the Notebook function and go into more detail on how to save particular modules on any given page into the player's Notebook. To proceed you have to complete the **dateExercise** from *Plantation Lives*."

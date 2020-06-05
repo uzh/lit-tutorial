@@ -6,5 +6,5 @@
   "showInNotebook": false,
   "showInNotebookAt": null,
   "page": null,
-  "markdownContent": "*If, as for this image, your caption is getting perilously long, you can also add a mini-text module like this. If one of your textExercises sets the player the task of, say, transcribing an extract from a primary source, you could make the image particularly wide (e.g. numberOfColumns = 10). This is better than setting the *zoomable* variable to true, as it's not possible to add textExercise inputs, or to write directly to your Notebook, while the zoomed image is on screen. (This might have been possible if we'd had more money, but, hey, Rome wasn't built in a day.)*"
+  "markdownContent": "*If, as for this image, your caption is getting perilously long, you can also add a mini-text module like this. If one of your textExercises sets the player the task of, say, transcribing an extract from a primary source, you could make the image particularly wide (e.g. numberOfColumns = 10). This is better than setting the *zoomable* variable to true, as it's not possible to add textExercise inputs, or to write directly into your Notebook, while the zoomed image is on screen. (This might have been possible if we'd had more money, but, hey, Rome wasn't built in a day.)*"
 }
